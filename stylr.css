@@ -1,0 +1,17 @@
+H1{
+    text-align: center;
+}
+li{
+    text-align: center;
+    display: inline;
+    padding: 50px;
+    margin: 50px;
+    font-size: 20px;
+}
+p{
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    font-size: 30px;
+    display: flex;
+}
